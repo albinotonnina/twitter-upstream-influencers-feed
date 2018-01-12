@@ -1,5 +1,7 @@
 # The twitter upstream influencers
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/albinotonnina/twitter-upstream-influencers-feed.svg)](https://greenkeeper.io/)
+
 ## Installation
 
 `npm install`
